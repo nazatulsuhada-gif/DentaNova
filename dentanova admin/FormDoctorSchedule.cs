@@ -14,7 +14,8 @@ namespace dentanova_admin
     public partial class FormDoctorSchedule : Form
 
     {
-        SqlConnection conn = new SqlConnection("Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=\"C:\\Users\\alif4\\source\\repos\\dentanova admin\\dentanova admin\\DentaNovaDatabase.mdf\";Integrated Security=True") ;
+        SqlConnection conn = new SqlConnection(
+                    @"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=|DataDirectory|\DentaNovaDatabase.mdf;Integrated Security=True");
         public FormDoctorSchedule()
         {
             InitializeComponent();

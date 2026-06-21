@@ -16,5 +16,12 @@ namespace DITP2123_DentaNovaClinic
         {
             InitializeComponent();
         }
+
+        private void button_OurServices_Click(object sender, EventArgs e)
+        {
+            ServiceForm serviceForm = new ServiceForm();
+            serviceForm.Show();
+            this.Hide();
+        }
     }
 }

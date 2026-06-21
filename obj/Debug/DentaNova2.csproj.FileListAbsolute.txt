@@ -1,0 +1,24 @@
+C:\Users\ASUS\source\repos\DentaNova2\DentaNova2\bin\Debug\DentaNova2.exe.config
+C:\Users\ASUS\source\repos\DentaNova2\DentaNova2\bin\Debug\DentaNova2.exe
+C:\Users\ASUS\source\repos\DentaNova2\DentaNova2\bin\Debug\DentaNova2.pdb
+C:\Users\ASUS\source\repos\DentaNova2\DentaNova2\obj\Debug\DentaNova2.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\DentaNova2\DentaNova2\obj\Debug\DentaNova2.ManageDoctors.resources
+C:\Users\ASUS\source\repos\DentaNova2\DentaNova2\obj\Debug\DentaNova2.Properties.Resources.resources
+C:\Users\ASUS\source\repos\DentaNova2\DentaNova2\obj\Debug\DentaNova2.SelectDateTime.resources
+C:\Users\ASUS\source\repos\DentaNova2\DentaNova2\obj\Debug\DentaNova2.SelectDoctor.resources
+C:\Users\ASUS\source\repos\DentaNova2\DentaNova2\obj\Debug\DentaNova2.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\DentaNova2\DentaNova2\obj\Debug\DentaNova2.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\DentaNova2\DentaNova2\obj\Debug\DentaNova2.exe
+C:\Users\ASUS\source\repos\DentaNova2\DentaNova2\obj\Debug\DentaNova2.pdb
+C:\Users\End User\Downloads\DentaNova2\DentaNova2\DentaNova2\obj\Debug\DentaNova2.csproj.AssemblyReference.cache
+C:\Users\End User\Downloads\DentaNova2\DentaNova2\DentaNova2\obj\Debug\DentaNova2.ManageDoctors.resources
+C:\Users\End User\Downloads\DentaNova2\DentaNova2\DentaNova2\obj\Debug\DentaNova2.Properties.Resources.resources
+C:\Users\End User\Downloads\DentaNova2\DentaNova2\DentaNova2\obj\Debug\DentaNova2.SelectDateTime.resources
+C:\Users\End User\Downloads\DentaNova2\DentaNova2\DentaNova2\obj\Debug\DentaNova2.SelectDoctor.resources
+C:\Users\End User\Downloads\DentaNova2\DentaNova2\DentaNova2\obj\Debug\DentaNova2.csproj.GenerateResource.cache
+C:\Users\End User\Downloads\DentaNova2\DentaNova2\DentaNova2\obj\Debug\DentaNova2.csproj.CoreCompileInputs.cache
+C:\Users\End User\Downloads\DentaNova2\DentaNova2\DentaNova2\obj\Debug\DentaNova2.exe
+C:\Users\End User\Downloads\DentaNova2\DentaNova2\DentaNova2\obj\Debug\DentaNova2.pdb
+C:\Users\End User\Downloads\DentaNova2\DentaNova2\DentaNova2\bin\Debug\DentaNova2.exe.config
+C:\Users\End User\Downloads\DentaNova2\DentaNova2\DentaNova2\bin\Debug\DentaNova2.exe
+C:\Users\End User\Downloads\DentaNova2\DentaNova2\DentaNova2\bin\Debug\DentaNova2.pdb
